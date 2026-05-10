@@ -3912,3 +3912,9 @@ Entries:
         medical techfabs list of items.
   id: 495
   time: '2026-05-09T23:59:18.0000000+00:00'
+- author: PickelSilly
+  changes:
+    - type: Add
+      message: Added IdiotVibes' "What the Hell is Going On" art to the lobby rotation!
+  id: 496
+  time: '2026-05-10T00:09:35.0000000+00:00'
