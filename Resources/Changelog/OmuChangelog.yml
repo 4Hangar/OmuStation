@@ -4042,3 +4042,11 @@ Entries:
       message: Xelthia can now freely drink coffee and eat raw meat.
   id: 513
   time: '2026-05-15T10:09:45.0000000+00:00'
+- author: 3PonPon3
+  changes:
+    - type: Add
+      message: >-
+        Added a new bark voice option for Moths (and Harpies).
+        Squeaksqueaksqueaksqueaksqueak!!
+  id: 514
+  time: '2026-05-15T18:37:19.0000000+00:00'
