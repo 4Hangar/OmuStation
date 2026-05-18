@@ -4078,3 +4078,9 @@ Entries:
       message: Removed Slasher from natural roll
   id: 518
   time: '2026-05-18T13:38:09.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Fix
+      message: Fixed being able to make infinite medipens for free.
+  id: 519
+  time: '2026-05-18T18:56:12.0000000+00:00'
