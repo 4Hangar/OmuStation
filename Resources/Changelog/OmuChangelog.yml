@@ -4382,3 +4382,9 @@ Entries:
       message: Ported the blink emote from Imp!
   id: 561
   time: '2026-06-06T23:28:44.0000000+00:00'
+- author: ishkab
+  changes:
+    - type: Tweak
+      message: NTR report is now 1×1 and fits in the CC clipboard
+  id: 562
+  time: '2026-06-06T23:31:01.0000000+00:00'
